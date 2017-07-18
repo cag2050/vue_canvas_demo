@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+![image](https://github.com/cag2050/vue_canvas_demo/blob/master/screenshots/credit_pic%402x.png)
+
 ## Build Setup
 
 ``` bash

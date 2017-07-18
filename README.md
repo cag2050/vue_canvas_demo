@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-![image](https://github.com/cag2050/vue_canvas_demo/blob/master/screenshots/credit_pic%402x.png)
+<img src="https://github.com/cag2050/vue_canvas_demo/blob/master/screenshots/credit_pic%402x.png" width="200px" height="158px" />
 
 ## Build Setup
 

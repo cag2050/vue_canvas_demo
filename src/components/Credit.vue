@@ -2,6 +2,7 @@
   <div class="container">
     <canvas ref="canvas" width="180" height="180"></canvas>
     <div class="percent" :style="percent_color">{{ percent }}</div>
+    <div>信用积分</div>
   </div>
 </template>
 
@@ -61,8 +62,8 @@ export default {
 <style>
 .container .percent {
     margin-top: 40px;
-    font-size: 30px;
     font-weight: bold;
-    margin-top: -120px;
+    margin-top: -133px;
+    font-size: 42px;
 }
 </style>
